@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=0xqichao&label=Profile%20Views&color=0e75b6&style=flat" alt="0xqichao" /> 
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow"></a>
+  <a href="https://twitter.com/dy_nick30842"><img src="https://img.shields.io/twitter/follow/dy_nick30842?style=social" alt="Twitter Follow"></a>
 </div>
 
 <br />
